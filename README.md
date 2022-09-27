@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Korla Goutham</h1>
 <h3 align="center">I am a Frontend Developer and Competitive Programmer</h3>
-<img alt="Competitive Programmer FrontEnd Developer" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"/>
+<img alt="Competitive Programmer FrontEnd Developer" align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korla2&label=Profile%20views&color=0e75b6&style=flat" alt="korla2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korla2" alt="korla2" /></a> </p>
