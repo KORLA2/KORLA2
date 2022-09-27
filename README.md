@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [korla.hashnode.dev](korla.hashnode.dev)
 
-- 💬 Ask me about **React.js ,Git/Github,C++,JavaScript**
+- 💬 Ask me about **React.js ,Git/Github,C++,JavaScript,Data Structures Algorithms**
 
 - 📫 How to reach me **gouthamkorla1023@gmail.com**
 
