@@ -1,5 +1,5 @@
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif)
 <h1 align="center">Hi 👋, I'm Korla Goutham</h1>
 <h3 align="center">I am a Frontend Developer and Competitive Programmer</h3>
 <img alt="Competitive Programmer FrontEnd Developer" align="right" src="https://c.tenor.com/ekdXKJ7tpNkAAAAS/code.gif"/>
