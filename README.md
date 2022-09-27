@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korla2" alt="korla2" /></a> </p>
 
-- 🌱 I’m currently learning **React.js ,DevOps,Git**
+- 🌱 I’m currently learning **React.js ,DevOps,GCP,AWS**
 
 - 👨‍💻 All of my projects are available at [korlagouthamportfolio.netlify.app](korlagouthamportfolio.netlify.app)
 
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korla2&show_icons=true&locale=en" alt="korla2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korla2&" alt="korla2" /></p>
-
