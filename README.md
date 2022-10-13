@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js ,DevOps,GCP,AWS**
 
-- 👨‍💻 All of my projects are available at [korlagouthamportfolio.netlify.app](korlagouthamportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://korlagouthamportfolio.netlify.app](https://korlagouthamportfolio.netlify.app)
 
 - 📝 I regularly write articles on [korla.hashnode.dev](korla.hashnode.dev)
 
