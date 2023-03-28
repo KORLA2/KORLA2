@@ -1,4 +1,4 @@
-<img src="https://tenor.com/en-GB/view/code-coding-flying-through-code-e22-hacking-gif-15826314" alt='Loading'/>
+<img src="https://gifer.com/en/Oxmb" alt='Loading'/>
 
 <h1 align="center"> ✋, I'm Korla Goutham</h1>
 <h3 align="center">I am a Frontend Developer and Competitive Programmer</h3>
