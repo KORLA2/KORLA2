@@ -1,5 +1,6 @@
 
-![](https://gifer.com/en/Oxmb)
+![](https://i.gifer.com/2I9A.gif)
+
 <h1 align="center"> ✋, I'm Korla Goutham</h1>
 <h3 align="center">I am a Frontend Developer and Competitive Programmer</h3>
 <img alt="Competitive Programmer FrontEnd Developer" align="right" src="https://c.tenor.com/ekdXKJ7tpNkAAAAS/code.gif"/>
