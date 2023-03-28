@@ -1,4 +1,4 @@
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0ZIjfLXD4WE4abbvNM7vud&ust=1680083527507000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDQyYGt_v0CFQAAAAAdAAAAABAJ" alt='Loading'/>
 
 <h1 align="center"> ✋, I'm Korla Goutham</h1>
 <h3 align="center">I am a Frontend Developer and Competitive Programmer</h3>
